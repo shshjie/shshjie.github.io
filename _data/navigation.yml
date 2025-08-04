@@ -17,6 +17,9 @@ main:
     
   #- title: "CV"
    # url: /cv/
+
+   - title: "Recent work"
+     url: /recent_work/
     
   #- title: "Guide"
    # url: /markdown/
